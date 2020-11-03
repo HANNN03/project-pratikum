@@ -230,7 +230,7 @@ print('{0:8} | {1:9}'.format('dalas', 3.))
 print('{0:8} | {1:9}'.format('NB',10))
 ```
 Hasil dari source code contoh di atas akan seperti berikut : <br>
-![OutPut Aligmnent contoh](gambar/foto 11.png)<br><br>
+![OutPut Aligmnent contoh](gambar/foto%2011.png)<br><br>
 > Secara default, **.format()** menggunakan rata text kiri, angka ke kanan. <,^, atau > untuk perataan kiri, tengah , atau kanan. Contoh lain dari penggunaan **.format()** sebagai berikut : <br>
 ``` python
 print('{:<30}{:^30}{:>30}'.format('Kiri','Tengah','Kanan'))
